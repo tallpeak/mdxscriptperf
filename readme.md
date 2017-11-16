@@ -16,3 +16,5 @@
 * Bump priority of worker thread
 * Remove exception handling from MDXScript parser
 * Cache-warming to stabilize timings a bit?
+* Verify Nuget package restore of Microsoft.AnalysisServices.AdomdClient.dll?
+* Remove dependency on Microsoft.ExceptionMessageBox.dll
